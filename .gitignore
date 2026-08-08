@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+cloned_repo/
+chroma_db/
+.streamlit/
