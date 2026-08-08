@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gitpython
+chromadb
+sentence-transformers
+google-genai
+streamlit
+python-dotenv
